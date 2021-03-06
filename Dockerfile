@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-RUN touch hoge
+RUN mkdir created_in_Dockerfile
